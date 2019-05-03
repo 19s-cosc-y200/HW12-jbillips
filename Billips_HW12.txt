@@ -17,10 +17,16 @@ body {
 	color: #000000; 
 	font-family: Arial, Helvetica, Sans-Serif; 
 }
+
+should be a, not body
+missing text-decoration
+
 .new {
 	font style: bold and italics
 }
 </style>
+
+missing font-weight
 
 2.body {
 	background-color: #FFF8DC;
